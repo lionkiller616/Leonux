@@ -95,3 +95,4 @@ Craft a **new visual language** that embraces minimalism, abstraction, softness,
 
 **Name:** *Leonux*
 **Tagline:** *“The Soft Edge of Simplicity”*
+## page : https://lionkiller616.github.io/Leonux/
